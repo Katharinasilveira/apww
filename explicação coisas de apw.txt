@@ -1,0 +1,10 @@
+Diagrama de Caso de Uso 
+Boneco = Ator
+Esfera Oval = Artefato
+<<I>> = Implementação
+<<E>> = Extensão
+Linha = Interação
+Seta Pontilhada ---> Dependência
+Seta comum fechada  (<]---) = Generalização/ Especialização
+
+
